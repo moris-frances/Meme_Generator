@@ -1,12 +1,12 @@
 # Meme Generator
-by Moris Frances, Personal Number: 2110258120
+by Moris Frances
+
 Compilation:
-gcc -std=c99 -Wall -Wextra -pedantic -Wno-unused-parameter main.c func.c func.h 6x8_horizontal_LSB_1.h 7x12_horizontal_LSB_1.h font8x8_basic.h -lm
-
+Write "make" in a terminal session, open in the root folder
 Execution:
-I have a -h command
+./MemeGenerator
 
-Completed Tasks:
-Tasks 1-6 included
+Use the "-h" command for more info
+
 Comment:
 I could have made it more memory efficient with extra buffers
